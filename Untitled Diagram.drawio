@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T11:16:19.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="osQy0YeyR_g6W2xR8tEn" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T11:22:06.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="qRiByjSybb5OXDbqn4xF" version="13.8.5" type="github">
   <diagram id="8iWY7i1eRtHJk0hEjWrJ" name="Page-1">
     <mxGraphModel dx="1221" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -490,7 +490,7 @@
             <mxPoint x="1282" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_EkRLV2-YH-rZL2Pmkp3-13" value="Display Meeting" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="_EkRLV2-YH-rZL2Pmkp3-13" value="Display Start/Stop Meeting" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1230" y="220" width="107" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_EkRLV2-YH-rZL2Pmkp3-15" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#001933;" edge="1" parent="1" source="_EkRLV2-YH-rZL2Pmkp3-13">
@@ -666,7 +666,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_EkRLV2-YH-rZL2Pmkp3-61" value="" style="line;strokeWidth=3;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="297" width="430" height="6" as="geometry" />
+          <mxGeometry x="1520" y="297" width="610" height="6" as="geometry" />
         </mxCell>
         <mxCell id="_EkRLV2-YH-rZL2Pmkp3-62" value="Meeting 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1601" y="335.5" width="100" height="41" as="geometry" />
@@ -686,9 +686,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_EkRLV2-YH-rZL2Pmkp3-68" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.118;exitY=0.873;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_EkRLV2-YH-rZL2Pmkp3-61" target="_EkRLV2-YH-rZL2Pmkp3-62">
+        <mxCell id="_EkRLV2-YH-rZL2Pmkp3-68" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="_EkRLV2-YH-rZL2Pmkp3-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1590" y="330" as="sourcePoint" />
+            <mxPoint x="1651" y="302" as="sourcePoint" />
             <mxPoint x="1640" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -714,7 +714,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_EkRLV2-YH-rZL2Pmkp3-76" value="" style="line;strokeWidth=3;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="855.5" width="430" height="6.5" as="geometry" />
+          <mxGeometry x="1520" y="855.5" width="620" height="6.5" as="geometry" />
         </mxCell>
         <mxCell id="_EkRLV2-YH-rZL2Pmkp3-77" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_EkRLV2-YH-rZL2Pmkp3-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
