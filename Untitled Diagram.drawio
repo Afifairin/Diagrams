@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T09:39:26.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="sTkSPijnInMXhBd02Zy2" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T09:43:18.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="P0dpy2Z7MaoVSU9M8ruh" version="13.8.5" type="github">
   <diagram id="8iWY7i1eRtHJk0hEjWrJ" name="Page-1">
     <mxGraphModel dx="1221" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -490,7 +490,7 @@
             <mxPoint x="1282" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_EkRLV2-YH-rZL2Pmkp3-13" value="Display Meeting Progress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="_EkRLV2-YH-rZL2Pmkp3-13" value="Display Meeting" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1230" y="220" width="107" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_EkRLV2-YH-rZL2Pmkp3-15" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#001933;" edge="1" parent="1" source="_EkRLV2-YH-rZL2Pmkp3-13">
